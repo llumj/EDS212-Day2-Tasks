@@ -1,0 +1,13 @@
+---
+title: "EDS 212 Day 2 Tasks"
+format: html
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+library(tidyverse)
+
+library(palmerpenguins)
+```
+
